@@ -1,5 +1,5 @@
 # CyberFlix
-full stack development project.
+full stack development project. - CSS UNDER DEVELOPMENT
 
 • Designed a web application to search for movies by creating a page that would submit
 information to a Java servlet that forwarded a request to a JSP page to be rendered.
